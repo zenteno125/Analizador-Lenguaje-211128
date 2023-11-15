@@ -1,0 +1,35 @@
+condicional -----------------------
+
+var int edad;
+edad = 18;
+si edad < 18 {
+contenido
+} sino {
+contenido }
+
+Función Main------------------------
+
+funn inn() {
+
+var int resultado;
+resultado = concatenar(5, 7);
+
+}
+
+Declaracion de variables ------------
+
+var int numeros;   |    var asd letras;
+
+Funciones ----------------------------
+
+funn concatenar(int num1, int num2 ){
+return num1 + num2;
+}
+
+
+Ciclos -------------------------------
+
+var int ciclito;
+repite ciclito desde 1 hasta 10 {
+contenido
+}
